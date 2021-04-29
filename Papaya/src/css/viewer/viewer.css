@@ -1,0 +1,88 @@
+
+.papaya-viewer {
+    line-height: 1;
+    font-family: sans-serif;
+}
+
+
+.papaya-viewer div, .papaya-viewer canvas {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    font-family: sans-serif;
+}
+
+
+/* .papaya-viewer canvas {
+    cursor: crosshair;
+} */
+.papaya-display #input-volume {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+/* define chart css modified */
+.bottom-container #chart {
+    justify-content: center;
+    flex-direction: column;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 37%;
+    margin-left: 40px;
+    height: 380px;
+    bottom: 430px;
+    left: 900px;
+    position: relative;
+}
+#chart2 {
+    justify-content: center;
+    flex-direction: column;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 50%;
+    margin-left: 40px;
+    height: 380px;
+    bottom: 500px;
+    left: -500px;
+    background-color: #fff;
+}
+.voxel-input-container {
+    display: flex;
+    flex-direction: column;
+}
+.voxel-input-container input {
+    width: 100px;
+}
+/* style modified */
+.value-container .left-label {
+    /* width: 75px; */
+    display: inline-block;
+}
+.color-x {
+    width: 20px;
+    height: 10px;
+    background-color: red;
+    display: inline-block;
+}
+.color-y {
+    width: 20px;
+    height: 10px;
+    background-color: green;
+    display: inline-block;
+}
+.color-z {
+    width: 20px;
+    height: 10px;
+    background-color: blue;
+    display: inline-block;
+}
+.axis-des-container{
+    display: inline-block;
+    width: 80px;
+}
