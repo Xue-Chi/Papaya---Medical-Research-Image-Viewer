@@ -8,7 +8,7 @@ Papaya is a pure JavaScript medical research image viewer, supporting [DICOM and
 * [Supported Formats](https://github.com/rii-mango/Papaya/wiki/Supported-Formats): NIFTI (.nii, .nii.gz), DICOM (compressed/uncompressed), GIFTI (.surf.gii), VTK
 
 ### Quickstart Guide
-You may need Git LFS as a plug-in to assist you in downloading since the size of test image is relatively large. Details have been attached in the Appendix A - User Manual in the report.
+You may need Git LFS as a plug-in to assist you in downloading since the size of test image is relatively large. Details wit texts and screenshots have been attached in the Appendix A - User Manual in the report.
 
 Before you can actually run it, you need to follow these steps:
 1. Download the code or clone the repository to your own local machine.
